@@ -7,7 +7,7 @@ class Solution {
                 if (i == j) {
                     continue;
                 }
-                
+
                 suma = nums[i] + nums[j];
 
                 if (suma == target) {
@@ -15,7 +15,6 @@ class Solution {
                     return pos;
                 }
             }
-
         }
         return null;
     }
