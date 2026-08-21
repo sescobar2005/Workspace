@@ -1,4 +1,4 @@
-# Workspace
+# Workspace - Java
 
 Repositorio dedicado a resolver ejercicios de algoritmos, con el fin de fortalecer la lógica de programación.
 
